@@ -1,0 +1,30 @@
+.profile-header-wrapper{
+  background-color: rgb(106, 213, 139);
+  color: white;
+}
+
+.profile-header-infos{
+    padding: 20px 0;
+    background-color: rgb(106, 213, 139);
+  }
+
+.profile-header-container img{
+  width: 100px;
+  border-radius:50%;
+}
+
+h1{
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+
+h2{
+color: white;
+opacity: 0.4;
+font-size: 18px;
+font-weight: lighter;
+margin-bottom: 0;
+letter-spacing: -1px;
+}
